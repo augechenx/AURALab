@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "AURA Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "AURA Lab at RIT"
 sitemap: false
 permalink: /
 ---
