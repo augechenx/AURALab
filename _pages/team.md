@@ -1,196 +1,45 @@
 ---
-title: "Allan Lab - Team"
+title: "AURA Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "AURA Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+## Principal Investigator
 
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  <li> {{ member.education4 | markdownify}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 | markdownify}} </li>
-  <li> {{ member.education2 | markdownify}} </li>
-  <li> {{ member.education3 | markdownify}} </li>
-  <li> {{ member.education4 | markdownify}} </li>
-  <li> {{ member.education5 | markdownify}} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-## Master and Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Former visitors, BSc/ MSc students
-<div class="row">
-
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chen_xia.jpg" class="img-responsive" style="width: 100%; max-width: 260px;" />
+</div>
+<div class="col-sm-8 clearfix">
+  <h3>Chen Xia, Ph.D., LEED AP</h3>
+  <i>Assistant Professor</i><br>
+  Department of Civil Engineering Technology, Environmental Management and Safety<br>
+  Rochester Institute of Technology
+
+  <ul>
+    <li>Ph.D., Architectural Engineering, Pennsylvania State University–University Park</li>
+    <li>M.S., Construction Management, Tongji University</li>
+    <li>B.S., Construction Cost Engineering, Chongqing University</li>
+  </ul>
+
+  <b>Email:</b> <a href="mailto:cxxite@rit.edu">cxxite@rit.edu</a><br>
+  <b>Address:</b> 1 Lomb Memorial Dr, Rochester, NY 14623
+
+  <p>
+  <!--<a href="PUT_CV_LINK_HERE">CV</a>,-->
+  <a href="PUT_RIT_PROFILE_LINK_HERE">RIT Profile</a>,
+  <a href="https://scholar.google.com/citations?user=y1ZRz6AAAAAJ&hl=en">Google Scholar</a>,
+  <a href="https://www.linkedin.com/in/chen-xia-leed-ap-9ab040199/?locale=en">LinkedIn</a>,
+  <a href="https://www.researchgate.net/profile/Chen-Xia-9?ev=hdr_xprf">ResearchGate</a>
+  </p>
+
+</div>
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
+<hr>
 
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+**We are looking for new PhD and Master's students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
