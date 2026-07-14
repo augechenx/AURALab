@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-For the most up-to-date list, please see [Google Scholar](PUT_GOOGLE_SCHOLAR_LINK_HERE).
+For the most up-to-date list, please see [Google Scholar](https://scholar.google.com/citations?user=y1ZRz6AAAAAJ&hl=en).
 
 - [Journal Articles](#journal)
   - [2024](#j2024)
