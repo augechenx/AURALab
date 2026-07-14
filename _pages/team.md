@@ -12,7 +12,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chen_xia.jpg" class="img-responsive" style="width: 100%; max-width: 260px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chen.jpg" class="img-responsive" style="width: 100%; max-width: 260px;" />
 </div>
 <div class="col-sm-8 clearfix">
   <h3>Chen Xia, Ph.D., LEED AP</h3>
