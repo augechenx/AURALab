@@ -27,7 +27,7 @@ My research focuses on how people, buildings, and urban infrastructure respond t
 
 ### AI-Augmented Urban Resilience Agents
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai_agent_framework.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture1.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
 
 This project develops empirically grounded AI agents that simulate how different residents move, make decisions, and respond during extreme weather events such as blackouts. By combining activity-pattern models with LLM-driven, theory-based decision-making (grounded in frameworks such as Maslow's hierarchy of needs), the agents transition realistically from normal daily behavior to disaster response. The framework is being applied to simulate blackout response across Philadelphia neighborhoods, supporting more equitable emergency planning.
 
@@ -35,7 +35,7 @@ This project develops empirically grounded AI agents that simulate how different
 
 ### Predictive AI for Cooling Center Utilization During Heatwaves
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/cooling_center_project.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/cooling_center_.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
 
 This project builds a machine-learning pipeline to predict utilization of extreme-weather shelters (such as cooling centers) that currently lack historical usage data. Using an active-learning approach, the model iteratively selects which shelters to monitor, gathers labeled utilization data, and retrains to improve predictions for new sites. The goal is to help cities target outreach, transportation support, and temporary capacity where it is needed most during heatwaves.
 
@@ -43,16 +43,15 @@ This project builds a machine-learning pipeline to predict utilization of extrem
 
 ### Human-Centered Building Energy Vulnerability
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/energy_vulnerability_framework.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture5.png" class="img-responsive" style="width: 100%; max-width: 800px;" />
 
 <div class="row" style="margin-top: 15px;">
-<div class="col-sm-3"><img src="{{ site.url }}{{ site.baseurl }}/images/research/energy_map_aged.gif" class="img-responsive" /></div>
-<div class="col-sm-3"><img src="{{ site.url }}{{ site.baseurl }}/images/research/energy_map_poverty.gif" class="img-responsive" /></div>
-<div class="col-sm-3"><img src="{{ site.url }}{{ site.baseurl }}/images/research/energy_map_unemployed.gif" class="img-responsive" /></div>
-<div class="col-sm-3"><img src="{{ site.url }}{{ site.baseurl }}/images/research/energy_map_disabled.gif" class="img-responsive" /></div>
+<div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture2.gif" class="img-responsive" /></div>
+<div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture3.gif" class="img-responsive" /></div>
+<div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture4.png" class="img-responsive" /></div>
 </div>
 
-This line of work integrates human activity patterns, building characteristics, and energy consumption to profile residential energy vulnerability at the community level. The maps above show how the spatial distribution of different vulnerable populations (elderly, low-income, unemployed, and disabled residents) shifts over the course of a day, revealing that static, home-address-based vulnerability assessments can miss where at-risk populations actually are during a disruption. Building on this foundation, current work is extending the framework with AI-driven modeling to better anticipate and respond to energy vulnerability under compound hazards.
+This work develops a four-step framework for profiling residential energy vulnerability: modeling electricity-related activity patterns across demographic groups, using a hierarchical Bayesian model to spatially map occupancy and building characteristics, simulating building energy consumption with EnergyPlus, and integrating social, built-environment, and energy dimensions into a residential energy vulnerability profile. Applied to a case study in Philadelphia, the maps above show how the spatial distribution of vulnerable populations, activity-driven energy demand, and energy burden vary across the city, revealing where residents face the greatest combined risk. Building on this foundation, current work is extending the framework with AI-driven modeling to better anticipate and respond to energy vulnerability under compound hazards.
 
 <hr>
 
