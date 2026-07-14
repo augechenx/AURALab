@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Adaptive Urban Resilience and AI Laboratory
+<h2 style="font-size: 28px;">Adaptive Urban Resilience and AI Laboratory</h2>
 
 **Advancing human-centered AI for adaptive, resilient, and sustainable communities.**
 
