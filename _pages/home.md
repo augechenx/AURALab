@@ -45,4 +45,4 @@ AURA Lab develops artificial intelligence methods that help people, infrastructu
 
 **News:** Stay tuned — updates coming soon!
 
-**We are looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master's students to join the team** [(contact me)](mailto:cxxite@rit.edu) **!**
