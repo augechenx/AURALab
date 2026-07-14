@@ -20,4 +20,22 @@ This course covers planning, organization, scheduling, and control of constructi
 ### CONM-630-01: Advanced Construction Scheduling Techniques
 **Spring 2027** | 3 Credit Hours | Online Asynchronous
 
-This course examines different types of schedules used in the construction process, including bar charts, the Critical Path Method (CPM), and the Project
+This course examines different types of schedules used in the construction process, including bar charts, the Critical Path Method (CPM), and the Project Evaluation and Review Technique (PERT). Topics include forward and backward pass analysis for activity-on-arrow (AOA) and activity-on-node (AON) networks, cost- and resource-loaded schedules, linear and repetitive schedules, delay analysis techniques, and industry scheduling software.
+
+<hr>
+
+## Teaching Expertise
+
+Dr. Xia has taught courses in the following areas:
+
+**Building Information Modeling & Digital Design**
+- Advanced BIM
+- Architectural Studio
+- Architectural Engineering
+
+**Construction Management & Project Scheduling**
+- Construction Project Planning & Scheduling
+- Construction Engineering
+
+**Sustainable & Green Building Systems**
+- Advanced Green and Sustainable Civil Engineering
