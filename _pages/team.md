@@ -31,7 +31,7 @@ permalink: /team/
 
   <p>
   <!--<a href="PUT_CV_LINK_HERE">CV</a>,-->
-  <a href="PUT_RIT_PROFILE_LINK_HERE">RIT Profile</a>,
+  <!--<a href="PUT_RIT_PROFILE_LINK_HERE">RIT Profile</a>,-->
   <a href="https://scholar.google.com/citations?user=y1ZRz6AAAAAJ&hl=en">Google Scholar</a>,
   <a href="https://www.linkedin.com/in/chen-xia-leed-ap-9ab040199/?locale=en">LinkedIn</a>,
   <a href="https://www.researchgate.net/profile/Chen-Xia-9?ev=hdr_xprf">ResearchGate</a>
