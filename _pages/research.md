@@ -27,7 +27,7 @@ My research focuses on how people, buildings, and urban infrastructure respond t
 
 ### AI-Augmented Urban Resilience Agents
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/ai_agent_framework.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/ai_agent_framework.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
 
 This project develops empirically grounded AI agents that simulate how different residents move, make decisions, and respond during extreme weather events such as blackouts. By combining activity-pattern models with LLM-driven, theory-based decision-making (grounded in frameworks such as Maslow's hierarchy of needs), the agents transition realistically from normal daily behavior to disaster response. The framework is being applied to simulate blackout response across Philadelphia neighborhoods, supporting more equitable emergency planning.
 
