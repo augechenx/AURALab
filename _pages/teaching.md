@@ -35,7 +35,7 @@ Dr. Xia has taught courses in the following areas:
 
 **Construction Management & Project Scheduling**
 - Construction Project Planning & Scheduling
-- Construction Engineering
+- Construction Project Management
 
 **Sustainable & Green Building Systems**
 - Advanced Green and Sustainable Civil Engineering
