@@ -42,4 +42,4 @@ permalink: /team/
 
 <hr>
 
-**We are looking for new PhD and Master's students to join the team** [(contact me)](mailto:cxxite@rit.edu) **!**
+**We are looking for passionate new PhD and Master's students to join the team** [(contact me)](mailto:cxxite@rit.edu) **!**
