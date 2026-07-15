@@ -44,8 +44,8 @@ This project builds a machine-learning pipeline to predict utilization of extrem
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture5.png" class="img-responsive" style="width: 100%; max-width: 800px;" />
 
 <div class="row" style="margin-top: 15px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture2.gif" style="width: 32%; display: inline-block;" />
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture3.gif" style="width: 32%; display: inline-block;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture2.gif" style="width: 32%; display: inline-block; margin-right: 1%;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture3.gif" style="width: 32%; display: inline-block; margin-right: 1%;" />
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture4.png" style="width: 32%; display: inline-block;" />
 </div>
 
