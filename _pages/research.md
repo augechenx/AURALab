@@ -59,3 +59,5 @@ This project links occupancy demographics with building characteristics through 
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture6.png" class="img-responsive" style="width: 100%; max-width: 700px;" />
 
 This project develops a cyber-physical manufacturing platform capable of simultaneous polymer–concrete co-extrusion, enabling a single print process to combine structural strength with embedded functionality and a lower carbon footprint. The system integrates a synchronized dual-channel printhead with real-time rheological and geometric sensing to enable closed-loop control during printing, moving beyond the limitations of conventional single-material 3D concrete printing.
+
+### ... and more.
