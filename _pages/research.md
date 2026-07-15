@@ -44,9 +44,9 @@ This project builds a machine-learning pipeline to predict utilization of extrem
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture5.png" class="img-responsive" style="width: 100%; max-width: 800px;" />
 
 <div class="row" style="margin-top: 15px;">
-  <div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture2.gif" class="img-responsive" /></div>
-  <div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture3.gif" class="img-responsive" /></div>
-  <div class="col-sm-4"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture4.png" class="img-responsive" /></div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture2.gif" style="width: 32%; display: inline-block;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture3.gif" style="width: 32%; display: inline-block;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Picture4.png" style="width: 32%; display: inline-block;" />
 </div>
 
 This project links occupancy demographics with building characteristics through Bayesian spatial mapping, then simulates household energy consumption to profile social vulnerability, building resilience, and energy burden. Applied to a high-risk census tract in Philadelphia, the maps above show how vulnerability shifts throughout the day as residents move, and where energy burden is highest regardless of household income. Building on this foundation, current work is extending the framework with AI-driven modeling to better anticipate and respond to energy vulnerability under compound hazards.
