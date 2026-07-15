@@ -6,15 +6,14 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
 
 ## Research Vision
 
-My research focuses on how people, buildings, and urban infrastructure respond to extreme weather, infrastructure disruption, and compound hazards. I develop data driven and AI augmented modeling approaches that integrate human mobility, shelter seeking behavior, building performance, and energy vulnerability. Climate change is increasing the frequency and severity of extreme heat, winter storms, flooding, and power outages, while aging infrastructure and social inequities make many communities more vulnerable to these disruptions. A central goal of my work is to support more adaptive, equitable, and human-centered urban resilience planning.
+The AURA Lab's research focuses on how people, buildings, and urban infrastructure respond to extreme weather, infrastructure disruption, and compound hazards. I develop data driven and AI augmented modeling approaches that integrate human mobility, shelter seeking behavior, building performance, and energy vulnerability. Climate change is increasing the frequency and severity of extreme heat, winter storms, flooding, and power outages, while aging infrastructure and social inequities make many communities more vulnerable to these disruptions. A central goal of my work is to support more adaptive, equitable, and human-centered urban resilience planning.
 
 <hr>
 
-## Research Themes
+## Research Topic
 
 - **Human-Centered AI** — Modeling human behavior, mobility, and adaptation using empirically grounded AI agents and large language models.
 - **Urban Digital Twins** — Integrating human behavior, built systems, and environmental hazards into unified simulation environments for resilience planning.
