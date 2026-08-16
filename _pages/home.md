@@ -12,7 +12,7 @@ permalink: /
 
 ## About
 
-AURA Lab develops artificial intelligence methods that help people, infrastructure, and cities better prepare for, respond to, and recover from extreme events. Our research integrates AI, urban systems, building performance, and human behavior to create decision support tools for resilient communities. Through data-driven modeling, digital twins, and intelligent agents, we bridge engineering, computing, and public decision-making to address emerging challenges in the built environment.
+AURA Lab develops artificial intelligence methods that help people, infrastructure, and cities better prepare for, respond to, and recover from extreme events. Our research integrates AI, urban systems, building performance, and human behavior to create decision support tools for resilient communities. Through this interdisciplinary approach, we develop practical ways to understand and strengthen the resilience of the built environment under emerging risks.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
