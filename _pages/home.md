@@ -43,6 +43,6 @@ AURA Lab develops artificial intelligence methods that help people, infrastructu
   </a>
 </div>
 
-**News:** "<b>Dr. Chen Xia joins RIT’s Department of Industrial and Systems Engineering (ISE) and Center for Human-Aware Artificial Intelligence (CHAI) as affiliated faculty!</b>"
+**News:** <b>Dr. Chen Xia joins RIT’s Department of Industrial and Systems Engineering (ISE) and Center for Human-Aware Artificial Intelligence (CHAI) as affiliated faculty!</b>
 
 **We are looking for passionate new PhD and Master's students to join the team** [(contact me)](mailto:cxxite@rit.edu) **!**
