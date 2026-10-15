@@ -12,7 +12,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/Chen 2026.JPG"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/chen 2026.JPG"
      class="img-responsive"
      style="width: 100%; max-width: 260px; height: 300px; object-fit: cover; object-position: center;" />
 </div>
