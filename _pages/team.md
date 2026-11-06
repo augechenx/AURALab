@@ -113,6 +113,27 @@ UNDERGRADUATE_RESEARCHERS:
     .aura-team .team-photo,
     .aura-team .team-photo-placeholder { width: 110px; height: 110px; }
   }
+  .aura-team a.team-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #fff;
+  color: #222;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-decoration: none;
+  transition: background-color .2s, color .2s, border-color .2s;
+}
+
+.aura-team a.team-button:hover,
+.aura-team a.team-button:focus {
+  background: #008cba;
+  border-color: #008cba;
+  color: #fff;
+  text-decoration: none;
+}
 </style>
 
 <div class="aura-team" markdown="0">
@@ -175,7 +196,11 @@ UNDERGRADUATE_RESEARCHERS:
           <p><a href="{{ member.activity_url | escape }}">{{ member.activity | escape }}</a></p>
           {% endif %}
           {% if member.profile_url != "" and member.profile_url != nil %}
-          <p class="team-links"><a href="{{ member.profile_url | escape }}">{{ member.profile_label | default: "Learn more" | escape }}<span class="sr-only"> about {{ member.name | escape }}</span></a></p>
+          <p class="team-links">
+  <a class="team-button" href="{{ member.profile_url | escape }}">
+    LEARN MORE<span class="sr-only"> about {{ member.name | escape }}</span>
+  </a>
+</p>
           {% endif %}
         </div>
         {% if member.bio %}
