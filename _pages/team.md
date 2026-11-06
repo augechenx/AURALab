@@ -227,7 +227,7 @@ UNDERGRADUATE_RESEARCHERS:
         <ul class="team-education">
           <li>Ph.D., Architectural Engineering, Pennsylvania State University–University Park</li>
           <li>M.S., Construction Management, Tongji University</li>
-          <li>B.S., Construction Cost Engineering, Chongqing University</li>
+          <li>B.S., Construction Engineering, Chongqing University</li>
         </ul>
 
         <p>
