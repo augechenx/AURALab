@@ -253,9 +253,9 @@ UNDERGRADUATE_RESEARCHERS:
   <section class="team-section" aria-labelledby="{{ group }}">
     <h2 id="{{ group }}" class="team-heading">
       {% if group == "MASTER_RESEARCHERS" %}
-      Master's Students
+      MASTER_RESEARCHERS
       {% else %}
-      Undergraduate Students
+      UNDERGRADUATE_RESEARCHERS
       {% endif %}
     </h2>
 
