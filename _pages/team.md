@@ -7,7 +7,7 @@ permalink: /team/
 
 # Photos: upload to images/teampic/, then enter the filename below.
 # Leave optional fields empty until the student's details are confirmed.
-masters_students:
+MASTER_RESEARCHERS:
   - name: "Joshua Goetz"
     role: "Master's Student"
     email: "jlg5119@rit.edu"
@@ -16,19 +16,18 @@ masters_students:
     profile_url: "https://www.linkedin.com/in/joshua-goetz"
     profile_label: "LinkedIn"
 
-undergraduate_students:
+UNDERGRADUATE_RESEARCHERS:
   - name: "Amey Dhupkar"
     role: "Undergraduate Student"
     email: "aad7390@rit.edu"
     photo: "amey-dhupkar.png"
     program: "B.S. in Civil Engineering Technology"
     graduation: "Expected May 2028"
-    bio: "Amey has engineering internship experience in water and wastewater infrastructure and hospital construction. His work has included project coordination, procurement, technical documentation, and construction progress tracking. His technical skills include Microsoft Project, STAAD.Pro, Civil 3D, AutoCAD, and Revit."
-    college: "College of Engineering Technology"
     activity: "Construction Head, RIT ASCE Concrete Canoe"
     activity_url: "https://campusgroups.rit.edu/ritcc/leadership-team/"
     profile_url: "https://www.linkedin.com/in/amey-dhupkar-8988b3375/"
     profile_label: "LinkedIn"
+    
   - name: "Cameron Phillip"
     role: "Undergraduate Student"
     email: "cgp1977@rit.edu"
@@ -36,8 +35,6 @@ undergraduate_students:
     program: "B.S. in Civil Engineering Technology"
     graduation: "Expected May 2029"
     academic_details: "Minor: Mathematics; Concentration: Renewable Energy"
-    bio: "Cameron is interested in sustainable energy, with experience in renewable energy market research and a solar energy farm proposal. His project experience includes building design using Revit and AutoCAD, concrete mix design, and technical proposal writing. He also serves as a teaching assistant in the CETEMS department."
-    college: "College of Engineering Technology"
     activity: "Vice President, RIT Concrete Canoe Competition Team"
     activity_url: "https://campusgroups.rit.edu/ritcc/leadership-team/"
     profile_url: "https://www.linkedin.com/in/cameron123phillip/"
